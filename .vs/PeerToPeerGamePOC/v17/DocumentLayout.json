@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|c:\\users\\emmy\\source\\repos\\peertopeergamepoc\\peertopeergamepoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|solutionrelative:peertopeergamepoc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|c:\\users\\emmy\\source\\repos\\peertopeergamepoc\\peertopeergamepoc\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|solutionrelative:peertopeergamepoc\\connectionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|c:\\users\\emmy\\source\\repos\\peertopeergamepoc\\peertopeergamepoc\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE5B1-FE10-48AC-89DB-39B86BF31709}|PeerToPeerGamePOC\\PeerToPeerGamePOC.csproj|solutionrelative:peertopeergamepoc\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\GameState.cs",
+              "RelativeDocumentMoniker": "PeerToPeerGamePOC\\GameState.cs",
+              "ToolTip": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\GameState.cs*",
+              "RelativeToolTip": "PeerToPeerGamePOC\\GameState.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:41.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionManager.cs",
+              "DocumentMoniker": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\ConnectionManager.cs",
+              "RelativeDocumentMoniker": "PeerToPeerGamePOC\\ConnectionManager.cs",
+              "ToolTip": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\ConnectionManager.cs",
+              "RelativeToolTip": "PeerToPeerGamePOC\\ConnectionManager.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:57:15.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\Program.cs",
+              "RelativeDocumentMoniker": "PeerToPeerGamePOC\\Program.cs",
+              "ToolTip": "C:\\Users\\emmy\\source\\repos\\PeerToPeerGamePOC\\PeerToPeerGamePOC\\Program.cs",
+              "RelativeToolTip": "PeerToPeerGamePOC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T16:56:32.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

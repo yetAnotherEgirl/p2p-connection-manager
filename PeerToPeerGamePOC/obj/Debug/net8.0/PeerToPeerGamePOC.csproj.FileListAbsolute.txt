@@ -1,0 +1,14 @@
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\bin\Debug\net8.0\PeerToPeerGamePOC.exe
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\bin\Debug\net8.0\PeerToPeerGamePOC.deps.json
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\bin\Debug\net8.0\PeerToPeerGamePOC.runtimeconfig.json
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\bin\Debug\net8.0\PeerToPeerGamePOC.dll
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\bin\Debug\net8.0\PeerToPeerGamePOC.pdb
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.AssemblyInfoInputs.cache
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.AssemblyInfo.cs
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.csproj.CoreCompileInputs.cache
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.dll
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\refint\PeerToPeerGamePOC.dll
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.pdb
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\PeerToPeerGamePOC.genruntimeconfig.cache
+C:\Users\emmy\source\repos\PeerToPeerGamePOC\PeerToPeerGamePOC\obj\Debug\net8.0\ref\PeerToPeerGamePOC.dll
